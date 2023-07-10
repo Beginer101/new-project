@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .App {
   text-align: center;
 }
@@ -36,3 +37,15 @@
     transform: rotate(360deg);
   }
 }
+=======
+body {
+  text-align: center;
+  background: #A52A2A;
+}
+
+.App {
+  text-align: center;
+  margin-top: 100px;
+}
+
+>>>>>>> 6516162 (Game)

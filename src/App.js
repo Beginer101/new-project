@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import logo from './logo.svg';
 import './App.css';
 
@@ -21,5 +22,18 @@ function App() {
     </div>
   );
 }
+=======
+import React from 'react';
+import Game from "./GamePage";
+import './App.css'
+
+const App = () => {
+    return (
+        <div className="App">
+            <Game/>
+        </div>
+    );
+};
+>>>>>>> 6516162 (Game)
 
 export default App;
